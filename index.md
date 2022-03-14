@@ -13,3 +13,5 @@ filename: index
 [Data Structure Project:](https://jaymanjrekar.github.io/Jay-s-Personal-Repository/datastructureproject)
 
 [Create Task:](https://jaymanjrekar.github.io/Jay-s-Personal-Repository/createtask)
+
+[Week 0 Review Ticket](https://github.com/JayManjrekar/Jay-s-Personal-Repository/issues/1)
