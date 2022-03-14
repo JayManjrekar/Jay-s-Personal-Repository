@@ -1,2 +1,2 @@
 # Jay-s-Personal-Repository
-This is meant for all my individual work and code snippets
+[Week 0 Review Ticket](https://github.com/JayManjrekar/Jay-s-Personal-Repository/issues/1)
