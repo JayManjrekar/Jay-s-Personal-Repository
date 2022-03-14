@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Jays 5.1-5.2 Notes 
 
-You can use the [editor on GitHub](https://github.com/JayManjrekar/Jay-s-Personal-Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 5.1 CB Quiz SS/Notes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/89176673/158106035-07d82d5e-5a5a-4aba-a90a-360b8fe30ac0.png)
 
-### Markdown
+-The World Wide Web was invented in 1989 as a way for the scientific community to share information in a faster and easier way, and has since evolved greatly
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Targeted advertising is intended to help businesses turn a profit, but it incentivizes the collection of private information and has the potential to be abused
 
-```markdown
-Syntax highlighted code block
+-Machine learning and data mining have greatly benefitted many fields, but their findings are also susceptible to biases and may unintentionally contribute to discrimination
 
-# Header 1
-## Header 2
-### Header 3
+-Responsible programmers try to look at the big picture when it comes to the computing innovations they create. They try to catch potential channels for abuse or harm before they can be exploited.
 
-- Bulleted
-- List
+### 5.2 CB Quiz SS/Notes
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/89176673/158106166-f5cb6383-a75d-4b4e-840f-44daa190f9fe.png)
 
-**Bold** and _Italic_ and `Code` text
+-The digital divide refers to the gaps between those who have easy access to the internet and technology and those who don't. Internet and technology access varies across several factors
 
-[Link](url) and ![Image](src)
-```
+-Demographic (Younger people are more likely to be comfortable with the internet than older people, people with higher levels of education tend to use the internet more than people with lower levels of education)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-Socioeconomic (People with higher incomes are more likely to have quality access to digital tools than people with lower incomes)
 
-### Jekyll Themes
+-Geographic (some areas allow for more internet access than others, some areas are easier to connect to the internet than others)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JayManjrekar/Jay-s-Personal-Repository/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-Schools with the funding and resources can provide devices and/or hotspots to students that need them
 
-### Support or Contact
+-Local and national governments can fund businesses that provide internet access to areas that don't currently have access
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Governments and individuals can also help support institutions that provide communal internet access, such as libraries
+
+-Websites and governments can release educational resources to help newcomers navigate the internet
