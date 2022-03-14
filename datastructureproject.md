@@ -1,10 +1,10 @@
-### Data Structure Project Page
+# Data Structure Project Page
 
 <div class="row justify-content-center" style="margin: 2%;">
     <iframe height="1000px" width="700px" src="https://replit.com/@JayManjrekar/Jay-s-Personal-Repository?lite=true%22%3E#main.py"></iframe>
 </div>
 
-##Code Snippets
+### Code Snippets
 Try and Except
 
 ![img.png](img.png)
@@ -57,4 +57,5 @@ def ship():
         time.sleep(.1)
 ~~~
 My Menu and Submenu
+
 ![img_2.png](img_2.png)
