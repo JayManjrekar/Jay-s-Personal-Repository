@@ -8,8 +8,8 @@ filename: index
 
 ## By [Jay Manjrekar](https://github.com/jaymanjrekar)
 
-Test Prep Study: https://jaymanjrekar.github.io/Jay-s-Personal-Repository/testprepstudy
+[Test Prep Study:](https://jaymanjrekar.github.io/Jay-s-Personal-Repository/testprepstudy)
 
-Data Structure Project: https://jaymanjrekar.github.io/Jay-s-Personal-Repository/datastructureproject
+[Data Structure Project:](https://jaymanjrekar.github.io/Jay-s-Personal-Repository/datastructureproject)
 
-Create Task: https://jaymanjrekar.github.io/Jay-s-Personal-Repository/createtask
+[Create Task:](https://jaymanjrekar.github.io/Jay-s-Personal-Repository/createtask)
