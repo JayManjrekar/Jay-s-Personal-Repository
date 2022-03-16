@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Data Structure Project Page
 
 <div class="row justify-content-center" style="margin: 2%;">

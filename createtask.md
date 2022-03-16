@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Create Task 
 ### Jay - (Memory Game) [Video Link](https://youtu.be/IBTZKOMER5w)
 ### 3A
@@ -39,3 +40,5 @@ The conditions which are being tested in the first call are whether or not the c
 The same condition is being tested by the second call, as to whether the cards are matching or not. This essentially determines the functionality of the overall process.
 
 ![call 2](https://user-images.githubusercontent.com/89176673/155949061-6a76cc32-7fa2-4eef-8327-abbd04dd5ca9.PNG)
+
+

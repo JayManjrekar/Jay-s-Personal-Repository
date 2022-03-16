@@ -1,3 +1,4 @@
+{% include nav.html %}
 ## Jays 5.1-5.2 Notes 
 
 ### 5.1 CB Quiz SS/Notes
