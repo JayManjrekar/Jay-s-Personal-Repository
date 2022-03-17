@@ -30,7 +30,7 @@ option = int(input("Enter option"))
 while option != 0:
   if option ==1
     print("option one")
-  elif option ==2
+  elif option == 2
     print("option 2")
   else 
     print("invalid")
